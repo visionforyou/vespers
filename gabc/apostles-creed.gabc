@@ -1,0 +1,10 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+%%
+(f2) I(g) bel(g)íeve(f) in(h) God,(g) (:)
+the(g) Fa(g)thér(f) al(h)might(g)y,(g) (:) (Z)
+* mak(g)er(g) of(g) heav(g)én(f) and(e) earth;(d) (::) (Z)
+( g.) ( f) (h ) (g. ) (:) ( g.) ( f)(e ) (d. ) (::)

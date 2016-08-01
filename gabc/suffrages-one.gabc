@@ -1,0 +1,9 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+%%
+(f3) <alt>Cantor or Officiant:</alt>That(e) this(f) eve(g)ning(g) may(g) be(g) ho(g)ly,(g) good,(g) and(h) péace(f)ful,(e.) (:) (Z)
+<alt>People:</alt>We(e) en(f)treat(g) thee,(f) O(e) Lord.(f.) (::)

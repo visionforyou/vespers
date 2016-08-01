@@ -1,0 +1,7 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+%%
+(f2) A(c.)men(d.) (::)

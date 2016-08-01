@@ -1,0 +1,10 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+%%
+(c3) <alt>Cantor:</alt> Lord(hh) have(hg) mer(fg)cy(h.) (::)
+<alt>All:</alt> Christ(hh) have(hg) mer(fg)cy(h.) (::)
+Lord(hh) have(hg) mer(fg)cy(h.) (::)

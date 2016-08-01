@@ -1,0 +1,8 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+%%
+(c4)({er}gr) <alt>´</alt>({dr}gr) ({d}g) <alt>´</alt>(er) (:) ({cr}gr) <alt>´</alt>({cr}fr) <alt>´</alt>({br}dr) (::) (z)
