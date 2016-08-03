@@ -1,0 +1,10 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+commentary: Psalm 37:3-4;
+
+%%
+(f3) Put(e) thou({d}f) thy({cr}h) trust(h) in(h) the(h) Lord(h), and(h) be(h) do(h)ing(h) good;(g) †(,) dwell(h) in(h) the(h) land,(h) and(h) ver(h)i(h)ly(h) thou(h) shalt(g) be(f) fed.(h) *(::)
+De(h)light(h) thou(h) in(h) the(h) Lord,(h) and(h) he(h) shall(h) give(h) thee(h) thy(h) heart's(g) de(g)sire.(f) (::) ({cr}h.) (hr1.) (i) (gr1.) (::) (h.) (gr1.) (fr1.) (::)

@@ -1,6 +1,12 @@
 ---
 header-includes:
     - \usepackage[autocompile]{gregoriotex}
+    - \usepackage{libertine}
+#    - \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
+geometry:
+    - paperwidth=6in
+    - paperheight=9in
+    - margin=0.75in
 ---
 
 # An Order for Evening Prayer
@@ -18,7 +24,41 @@ _adapted from the Anglican Use_
 
 ## Psalmody
 
-_See appendix for weekly antiphon and tone._
+### Antiphon for Week 0 --- _Tonus Peregrinus_
+\nopagebreak
+\grecommentary{{\small \emph{ Philippians 2:11,13}}}
+\nopagebreak
+\gregorioscore{gabc/tones/0-peregrinus}
+
+### Antiphon for Week 1 --- Mode I
+\nopagebreak
+\grecommentary{{\small \emph{ Ephesians 4:26-27}}}
+\nopagebreak
+\gregorioscore{gabc/tones/1}
+
+### Antiphon for Week 2 --- Mode II
+\nopagebreak
+\grecommentary{{\small \emph{ Psalm 37:3-4}}}
+\nopagebreak
+\gregorioscore{gabc/tones/2}
+
+### Antiphon for Week 3 --- Mode III
+\nopagebreak
+\grecommentary{{\small \emph{ Mark 11:24}}}
+\nopagebreak
+\gregorioscore{gabc/tones/3}
+
+### Antiphon for Week 4 --- Mode IV
+### Antiphon for Week 5 --- Mode V
+### Antiphon for Week 6 --- Mode VI
+
+### Antiphon for Week 7 --- Mode VII
+\nopagebreak
+\grecommentary{{\small \emph{ Aquinas, Opusc. 57, 1-4}}}
+\nopagebreak
+\gregorioscore{gabc/tones/7}
+
+### Antiphon for Week 8 --- Mode VIII
 
 ### Psalm 1 --- _Beatus vir_
 
@@ -51,6 +91,7 @@ and to the Hóly Spírit:
 as it was in the beginning, is now and éver shall bé; \*  
 world without énd. Amén.
 
+_The weekly antiphon is repeated._
 
 ### Psalm 82 --- _Deus stetit_
 
@@ -84,6 +125,8 @@ and to the Hóly Spírit:
 
 as it was in the beginning, is now and éver shall bé; \*  
 world without énd. Amén.
+
+_The weekly antiphon is repeated._
 
 ### Psalm 148 --- _Laudate Dominum_
 
@@ -136,6 +179,8 @@ and to the Hóly Spírit:
 
 as it was in the beginning, is now and éver shall bé; \*  
 world without énd. Amén.
+
+_The weekly antiphon is repeated._
 
 ## Lesson
 

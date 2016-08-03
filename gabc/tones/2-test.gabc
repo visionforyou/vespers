@@ -1,0 +1,9 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+commentary: Psalm 37:3-4;
+
+%%
+(f3) (h.) (i) (gr1.) (::) (h.) (gr1.) (fr1.) (::)

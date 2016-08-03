@@ -1,0 +1,12 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+commentary: Aquinas, Opusc. 57, 1-4;
+
+%%
+(c3) The(h) on(hg)ly-(h)be(i)got(i)ten(i) Son(i) of(i) God,(h) †(,)
+want(i)ing(i) to(i) make(i) us(i) shar(i)ers(i) in(i) his(i) div(i)i(i)ni(i)ty,(i) ass(i)umed(k) our(j) nat(i)ure,(i) *(:)
+so(i) that(i) he,(i) made(i) man,(i) might(i) make(f) men(g) gods.(e) (::)
+(i.) (kr1.) (i) (jr1.) (:) (i.) (ir1.) (g) (hr1.) (::)

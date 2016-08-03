@@ -5,7 +5,7 @@ pandoc [input] -o [output].pdf --latex-engine=lualatex --latex-engine-opt=-shell
 ```
 
 
-pandoc vesper-draft.md -o vesper-draft-2016-07-20.pdf --latex-engine=lualatex --latex-engine-opt=-shell-escape -fmarkdown-implicit_figures
+pandoc vespers.md -o vesper-draft-2016-08-02.pdf --latex-engine=lualatex --latex-engine-opt=-shell-escape -fmarkdown-implicit_figures
 
 
 

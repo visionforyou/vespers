@@ -1,0 +1,11 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+commentary: Ephesians 4:26-27 DR;
+
+%%
+(c4) Be({dr}f) not(gh) ang(h)ry,(h) and(h) sin(h) not.(g) †(,) Let(h) not(h) the(h) sun(h) go(h) down(h) up(h)on(g) your(f) an(h)ger.(h) *(:)
+Give(h) not(f) place(g) to(g) the(f) dev(d)il.(d) (::)
+({dr}h.) (hr1.) (g) (hr1.) (::) (h.) (f) (gr1.) (h) (gr1.) (::)
