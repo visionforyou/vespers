@@ -4,9 +4,9 @@ header-includes:
     - \usepackage{libertine}
 #    - \DeclareTextCommand{\nobreakspace}{T1}{\leavevmode\nobreak\ }
 geometry:
-    - paperwidth=6in
-    - paperheight=9in
-    - margin=0.75in
+    - paperwidth=5.5in
+    - paperheight=8.5in
+    - margin=0.5in
 ---
 
 # An Order for Evening Prayer
@@ -486,3 +486,20 @@ All
 :    Amen.
 
 ## Seasonal Marian Hymn
+\nopagebreak
+
+### Alma Redemptoris Mater --- _Advent to Christmas_
+
+\gregorioscore{gabc/marian/alma-redemptoris}
+
+### Ave Regina Caelorum --- _after Candlemas, until Easter_
+
+\gregorioscore{gabc/marian/ave-regina-caelorum}
+
+### Regina Caeli --- _Easter to Pentecost_
+
+\gregorioscore{gabc/marian/regina-caeli}
+
+### Salve Regina --- _after Pentecost_
+
+\gregorioscore{gabc/marian/salve-regina}
