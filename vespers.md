@@ -49,6 +49,9 @@ _adapted from the Anglican Use_
 \gregorioscore{gabc/tones/3}
 
 ### Antiphon for Week 4 --- Mode IV
+
+
+
 ### Antiphon for Week 5 --- Mode V
 ### Antiphon for Week 6 --- Mode VI
 
@@ -238,7 +241,7 @@ If you abide in me, and my words abide in you, ask whatever you will and it shal
 \begin{minipage}[t]{0.4\textwidth}
 Melody \& Bass
 {
-  \greblockcustos
+
   \gregorioscore{gabc/magnificat-tb}
 }
 \end{minipage}
@@ -248,7 +251,7 @@ Melody \& Bass
 \begin{minipage}[t]{0.4\textwidth}
 Soprano \& Alto
 {
-  \greblockcustos
+
   \gregorioscore{gabc/magnificat-sa}
 }
 \end{minipage}

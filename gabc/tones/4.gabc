@@ -1,0 +1,13 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+commentary: Mark 11:24;
+
+%%
+(c4) <alt>Ison</alt>(hr0) (::)
+<alt>Ant.</alt>For(h)give(gh) us(h) our() tres()pass()es,() *(:)
+as() we() for()give() those() who() tres()pass() a()gainst() us.() (::)
+<alt>Ps.</alt>(hr) (gr1r) (i) (hr1r) (:)
+(hr) (hr1r) (gr1r) (::)
