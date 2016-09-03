@@ -1,0 +1,13 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+%%
+(c4) (fr0) (::)
+
+Hi(f)ther(gh)to(h) have(h) ye(h) asked(h) noth(h)ing(h) in(h) my(g) name:(h) *(:)
+ask,(h) and(h) ye(h) shall(h) re(h)ceive,(h) that(h) your(h) joy(g) may(g) be(d) full.(f) (::)
+(hr) (gr1r) (h) (fr1r) (:)
+(hr) (f) (hr1r) (g) (fr1r) (::)

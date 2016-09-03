@@ -50,10 +50,25 @@ _adapted from the Anglican Use_
 
 ### Antiphon for Week 4 --- Mode IV
 
-
+\nopagebreak
+\grecommentary{{\small \emph{ Matthew 6:12}}}
+\nopagebreak
+\gregorioscore{gabc/tones/4}
 
 ### Antiphon for Week 5 --- Mode V
+
+\nopagebreak
+\grecommentary{{\small \emph{ 2 Cor 9: 6-8}}}
+\nopagebreak
+\gregorioscore{gabc/tones/5}
+
+
 ### Antiphon for Week 6 --- Mode VI
+
+\nopagebreak
+\grecommentary{{\small \emph{ John 16:24}}}
+\nopagebreak
+\gregorioscore{gabc/tones/6}
 
 ### Antiphon for Week 7 --- Mode VII
 \nopagebreak
@@ -62,6 +77,10 @@ _adapted from the Anglican Use_
 \gregorioscore{gabc/tones/7}
 
 ### Antiphon for Week 8 --- Mode VIII
+\nopagebreak
+\grecommentary{{\small \emph{ John 17:20}}}
+\nopagebreak
+\gregorioscore{gabc/tones/8}
 
 ### Psalm 1 --- _Beatus vir_
 

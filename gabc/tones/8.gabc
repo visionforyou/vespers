@@ -1,0 +1,12 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+%%
+(c3) (er0) (::)
+If(e) ye(fh) have(h) faith(h) as(h) a(h) grain(h) of(h) mus(g)tard(i) seed,(h) *(:)
+no(h)thing(h) shall(h) be(h) im(h)pos(f)si(f)ble(f) un(f)to you.(e) (::)
+(hr) (hr1r) (i) (hr1r) (:)
+(hr) (f) (hr1r) (i) (hr1r) (::)

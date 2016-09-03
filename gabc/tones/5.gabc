@@ -1,0 +1,13 @@
+% !TEX TS-program = LuaLaTeX+se
+% !TEX root = main-lualatex.tex
+
+initial-style: 0;
+centering-scheme: english;
+
+%%
+(c3) (dr0) (::)
+
+He(d) which(fh) sow(h)eth(h) spar(h)ing(h)ly(h) shall(h) reap(f) al(f)so(gxg) spar(f)ing(f)ly;(f) *(:)
+and(h) he(h) which(h) sow(h)eth(h) boun(h)ti(h)ful(h)ly(h) shall(g) reap(e) al(e)so(f) boun(d)ti(d)ful(d)ly.(d) (::)
+(hr) (hr1r) (i) (hr1r) (:)
+(hr) (i) (gr1r) (h) (fr1r) (::)
