@@ -1,2 +1,0 @@
-deprecation:"initial-style" header is deprecated. Please use \gresetinitiallines in TeX instead.
-warning:no name specified, put `name:...;' at the beginning of the file, can be dangerous with some output formats
